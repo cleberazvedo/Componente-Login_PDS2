@@ -6,7 +6,7 @@ const App = () => {
   const [dados, setDados] = useState("");
 
   const usuario = {
-    email: "cosmeDamiao@gmail.com",
+    email: "alex@gmail.com",
     password: "123456"
   };
 
